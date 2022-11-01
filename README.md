@@ -2,9 +2,15 @@
 
 I am a software engineer with over ten years of experience. I have developed world-class iOS and Android applications for different areas such as healthcare, finance, IoT, retail, and government. Developed SDKs for Android and iOS, created native plugins for hybrid mobile frameworks, and automated development processes.
 
-[![@alvarez's Holopin board](https://holopin.io/api/user/board?user=alvarez)](https://holopin.io/@alvarez)
+<!-- [![@alvarez's Holopin board](https://holopin.io/api/user/board?user=alvarez)](https://holopin.io/@alvarez) -->
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvareztech&show_icons=true)
+
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/alvareztech/count.svg" />
+</p>
 
 - 👨‍💻 Projects: [alvarez.tech/projects](https://alvarez.tech/projects)
 - 👨‍🏫 Talks: [alvarez.tech/talks](https://alvarez.tech/talks)
