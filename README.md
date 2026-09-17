@@ -9,8 +9,4 @@ I am a software engineer with over ten years of experience. I have developed wor
 - 👨‍💻 Projects: [alvarez.tech/projects](https://alvarez.tech/projects)
 - 👨‍🏫 Talks: [alvarez.tech/talks](https://alvarez.tech/talks)
 - 📺 YouTube Channel: [youtube.com/alvareztech](https://www.youtube.com/alvareztech)
-- 🕊 Twitter: [twitter.com/alvarez_tech](https://twitter.com/alvarez_tech)
-
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/alvareztech/count.svg" />
-</p>
+- 🕊 Twitter: [twitter.com/danielo_dev](https://twitter.com/danielo_dev)
