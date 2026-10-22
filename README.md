@@ -1,8 +1,5 @@
 ### Hello! I am Daniel
 
-I am a software engineer with over ten years of experience. I have developed world-class iOS and Android applications for different areas such as healthcare, finance, IoT, retail, and government. Developed SDKs for Android and iOS, created native plugins for hybrid mobile frameworks, and automated development processes.
+Senior Software Engineer with 14+ years of experience building native iOS and Android applications, SDKs, and complex device integrations. My experience spans healthcare, navigation, IoT, and enterprise products, including glucose-monitoring wearables and real-time location services.
 
-- 👨‍💻 Projects: [alvarez.tech/projects](https://alvarez.tech/projects)
-- 👨‍🏫 Talks: [alvarez.tech/talks](https://alvarez.tech/talks)
-- 📺 YouTube Channel: [youtube.com/alvareztech](https://www.youtube.com/alvareztech)
-- 🕊 Twitter: [twitter.com/danielo_dev](https://twitter.com/danielo_dev)
+I work with Swift, SwiftUI, Kotlin, and Jetpack Compose, backed by extensive experience in Objective-C and Java. I combine hands-on engineering with technical leadership, guiding architecture, mentoring engineers, and driving delivery from design through release.
